@@ -26,13 +26,24 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+    1: express is a wrapper around a built in js http method that is alot harder to use
+    2: express aloows custom built middleware
+
 - [ ] Describe Middleware?
+
+    middleware are funtions that your server can use definitevly 
 
 - [ ] Describe a Resource?
 
+    somehwer our app gets data from
+
 - [ ] What can the API return to help clients know if a request was successful?
 
+    a status code from 200-299
+
 - [ ] How can we partition our application into sub-applications?
+
+    routing
 
 ## Project Setup
 
